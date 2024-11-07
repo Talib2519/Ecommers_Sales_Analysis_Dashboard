@@ -1,4 +1,5 @@
 # E-commerce Sales Analysis Dashboard
+![Dashboard1](https://github.com/user-attachments/assets/d7b229f9-a220-477c-a449-c95832b56629)
 
 ## Project Overview
 This Power BI dashboard analyzes e-commerce sales data, providing insights into total revenue, profit, quantity sold, and average order value (AOV). It offers segmented views by city, customer, product category, and payment method, aiding quick, data-driven decisions.
